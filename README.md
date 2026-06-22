@@ -11,14 +11,6 @@ O design foi totalmente planejado e estruturado utilizando o **Figma**, focando 
 
 ---
 
-## 👥 Equipe Desenvolvedora
-Projeto desenvolvido em colaboração acadêmica por:
-* [Seu Nome] - (Opcional: Coloque sua função, ex: UI/UX Designer)
-* [Nome do Integrante 2] - (Função/Colaboração)
-* [Nome do Integrante 3] - (Função/Colaboração)
-
----
-
 ## 🎭 Níveis de Acesso e Funcionalidades Mapeadas
 
 O sistema foi modularizado em três grandes personas para atender o fluxo escolar de ponta a ponta:
