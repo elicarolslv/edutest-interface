@@ -50,11 +50,4 @@ Abaixo estão os fluxos de tela desenhados para a aplicação:
   <img src="./assets/06-dashboard-aluno.png" width="600px" alt="Dashboard do Aluno">
 </p>
 
----
 
-## 🔗 Link do Protótipo
-O mapeamento completo de componentes, wireframes e fluxo interativo pode ser visualizado diretamente no ambiente de design:
-👉 [Acessar Projeto Completo no Figma](INSIRA_O_LINK_COMPARTILHADO_DO_FIGMA_AQUI)
-
----
-<p align="center">Trabalho acadêmico desenvolvido para fins de aprendizado em Design de Sistemas Web.</p>
